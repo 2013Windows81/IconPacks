@@ -30,7 +30,7 @@ Icons from every Microsoft Windows operating system are copyrighted by Microsoft
 **2. Help. I uninstalled the iconpack but the Icon is still there**
 
 **A:** 
-**1.** Try to Restore it through the Restore Point. the Iconpack asks to create a restore point first before patching as usual.**2.** If it didn't work. Try to restore it by using sfc/scannow. Read more on this [article](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) to perform a full restore
+**1.** Try to Restore it through the Restore Point. the Iconpack asks to create a restore point first before patching as usual.**2.** If it didn't work. Try to restore it by using DISM First and Then sfc/scannow. Read more on this [article](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) to perform a full System restore. This works perfectly!
 
 **3. After Installing the iconpack, all the icons are disappeared**
 
